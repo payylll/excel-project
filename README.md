@@ -1,0 +1,1 @@
+ By extracting data from 'Vrinda Store' for visualisation in excel i have made a project with the help of some graphical representation  tools like pivot chats, sorting, filtering, conditional formatting , etc. 
